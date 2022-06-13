@@ -1,2 +1,2 @@
-# scripts
-The collection of short scripts 
+# sudoker
+The script of generate all variants of sudoku
